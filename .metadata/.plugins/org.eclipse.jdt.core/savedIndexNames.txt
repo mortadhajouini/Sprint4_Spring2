@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\morta\OneDrive\Documents\3emeAnnee\SOA\SOA Smartphone microservice\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1259042021.index
+2350998541.index
